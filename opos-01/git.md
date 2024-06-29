@@ -1,0 +1,1 @@
+The ZIP compressed file package below is a partial OHOS 5.0 beta source code file, with the structure shown in the following figure, which can be decompressed and used according to the path. https://github.com/offsoc/opos-01.git
